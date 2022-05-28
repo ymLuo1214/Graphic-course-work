@@ -1,5 +1,6 @@
 import os
 import imageio
+import cv2
 
 def getPNGFile(path):
     files=os.listdir(path)
@@ -17,5 +18,7 @@ imgfile=getPNGFile(img_path)
 gif_img=[]
 for img in imgfile:
     imgname=img_path+img
-    gif_img.append(imageio.imread(imgname))
+    image=imageio.imread(imgname)
+    image=cv2.resize(image,(300,300))
+    gif_img.append(image)
 imageio.mimsave('res.gif',gif_img,fps=5)
