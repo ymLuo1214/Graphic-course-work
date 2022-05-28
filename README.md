@@ -3,4 +3,5 @@ my impletion of GAMES101 graphic coarse work
 
 ---
 result of HW1:<br>
-![](./Assign1/res.gif)
+
+<center><img src="./Assign1/res.gif" style="zoom:80%;" /></center>
