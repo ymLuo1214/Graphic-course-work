@@ -1,4 +1,4 @@
-# Graphic-coarse-work
+# Graphic-course-work
 my impletion of GAMES101 graphic course work
 
 ---
