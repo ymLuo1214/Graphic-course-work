@@ -1,4 +1,4 @@
-# Graphic-coarse-work
+# Graphic-course-work
 my impletion of GAMES101 graphic course work
 
 ---
@@ -9,11 +9,11 @@ my impletion of GAMES101 graphic course work
 
 #### without MSAA
 
-<center><img src="./Assign2/image1.png" style="zoom:30%;" /></center>
+<center><img src="./Assign2/image1.png" style="zoom:10%;" /></center>
 
 #### with MSAA
 
-<center><img src="./Assign2/image.png" style="zoom:30%;" /></center>
+<center><img src="./Assign2/image.png" style="zoom:10%;" /></center>
 
 ### HW3
 
