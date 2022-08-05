@@ -2,14 +2,21 @@
 my impletion of GAMES101 graphic course work
 
 ---
-result of HW1:<br>
+### HW1:
 
 <center><img src="./Assign1/res.gif" style="zoom:80%;" /></center>
-result of HW2 (without MSAA):
+### HW2
+
+#### without MSAA
 
 <center><img src="./Assign2/image1.png" style="zoom:30%;" /></center>
 
-result of HW2 (with MSAA)
+#### with MSAA
 
 <center><img src="./Assign2/image.png" style="zoom:30%;" /></center>
 
+### HW3
+
+#### normal 牛牛
+
+<center><img src="./Assign3/normal.png" style="zoom:30%;" /></center>
