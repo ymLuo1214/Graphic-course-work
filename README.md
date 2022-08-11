@@ -20,3 +20,19 @@ my impletion of GAMES101 graphic course work
 #### normal 牛牛
 
 <center><img src="./Assign3/normal.png" style="zoom:30%;" /></center>
+
+#### texture牛牛
+
+<center><img src="./Assign3/output1.png" style="zoom:30%;" /></center>
+
+#### Blinn-Phong牛牛
+
+<center><img src="./Assign3/output2.png" style="zoom:30%;" /></center>
+
+#### Bump牛牛
+
+<center><img src="./Assign3/output3.png" style="zoom:30%;" /></center>
+
+#### Displacement牛牛
+
+<center><img src="./Assign3/output4.png" style="zoom:30%;" /></center>
