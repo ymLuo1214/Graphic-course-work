@@ -36,3 +36,13 @@ my impletion of GAMES101 graphic course work
 #### Displacement牛牛
 
 <center><img src="./Assign3/output4.png" style="zoom:30%;" /></center>
+
+### HW4
+
+#### Bezier Curve:
+
+<center><img src="./Assign4/2.jpg" style="zoom:30%;" /></center>
+
+#### Bezier Curve with 6 points:
+
+<center><img src="./Assign4/1.jpg" style="zoom:30%;" /></center>
