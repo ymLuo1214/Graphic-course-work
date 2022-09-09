@@ -46,3 +46,10 @@ my impletion of GAMES101 graphic course work
 #### Bezier Curve with 6 points:
 
 <center><img src="./Assign4/1.jpg" style="zoom:30%;" /></center>
+
+### HW5
+
+#### Glass Ball on Blanket
+
+<center><img src="./Assign5/5.png" style="zoom:30%;" /></center>
+
