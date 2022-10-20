@@ -53,3 +53,9 @@ my impletion of GAMES101 graphic course work
 
 <center><img src="./Assign5/5.png" style="zoom:30%;" /></center>
 
+### HW6
+
+#### Glass Ball on Blanket
+
+<center><img src="./Assign6/6.jpg" style="zoom:30%;" /></center>
+
