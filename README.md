@@ -55,8 +55,7 @@ my impletion of GAMES101 graphic course work
 
 ### HW6
 
-<<<<<<< HEAD
 #### Rabbit(BVH)
 
-<center><img src="./Assign6/6.ppm" style="zoom:30%;" /></center>
+<center><img src="./Assign6/6.png" style="zoom:30%;" /></center>
 
