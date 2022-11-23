@@ -59,5 +59,8 @@ my impletion of GAMES101 graphic course work
 
 <center><img src="./Assign6/6.png" style="zoom:30%;" /></center>
 
+### HW7
 
+SSP=1024, Render time=13h
 
+<center><img src="./Assign7/7.png" style="zoom:30%;" /></center>
