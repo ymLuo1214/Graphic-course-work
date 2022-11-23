@@ -222,20 +222,24 @@ inline Intersection Triangle::getIntersection(Ray ray)
     Vector3f S = ray.origin - v0;
     Vector3f S1 = crossProduct(ray.direction, E2);
     Vector3f S2 = crossProduct(S, E1);
+    if (fabs(dotProduct(S1, E1)) < 1e-4)
+    {
+        return inter;
+    }
     float tnear, u, v;
     Vector3f res = Vector3f(dotProduct(S2, E2), dotProduct(S1, S), dotProduct(S2, ray.direction)) / dotProduct(S1, E1);
     tnear = res.x;
     u = res.y;
     v = res.z;
 
-    if (res.y >= 0.0 && res.z >= 0.0 && (res.y + res.z <= 1.0) && res.x >= 0.0)
+    if (u >= 0.0 && v >= 0.0 && (u + v <= 1.0) && tnear>0.0)
     {
-        inter.happened=true;
-        inter.distance=tnear;
-        inter.coords=Vector3f(tnear,u,v);
-        inter.normal=normal;
-        inter.obj=this;
-        inter.m=m;
+        inter.happened = true;
+        inter.distance = tnear;
+        inter.coords = ray.origin+ray.direction*tnear;
+        inter.normal = normal;
+        inter.obj = this;
+        inter.m = m;
     }
     return inter;
 }
